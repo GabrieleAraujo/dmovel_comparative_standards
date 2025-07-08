@@ -6,5 +6,5 @@ Este repositório contém a tabela comparativa final das normas de acessibilidad
 
 Você encontrará dois formatos da tabela comparativa final:
 
-* **[r/comparative_standards-E03B/Final_Table_Comparative_standards_EU_BR.md](r/comparative_standards-E03B/Final_Table_Comparative_standards_EU_BR.md)**: Este arquivo Markdown pode ser **visualizado diretamente aqui no repositório**;
-* **[r/comparative_standards-E03B/Final_Table_Comparative_standards_EU_BR.xlsx](r/comparative_standards-E03B/Final_Table_Comparative_standards_EU_BR.xlsx)**: Para uma análise mais detalhada e a possibilidade de filtragem e manipulação dos dados, o arquivo Excel está disponível para **download**.
+* **[Final_Table_Comparative_standards_EU_BR.md](https://anonymous.4open.science/r/comparative_standards-E03B/Final_Table_Comparative_standards_EU_BR.md)**: Este arquivo Markdown pode ser **visualizado diretamente aqui no repositório**;
+* **[Final_Table_Comparative_standards_EU_BR.xlsx](https://anonymous.4open.science/r/comparative_standards-E03B/Final_Table_Comparative_standards_EU_BR.md)**: Para uma análise mais detalhada e a possibilidade de filtragem e manipulação dos dados, o arquivo Excel está disponível para **download**.
